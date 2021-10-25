@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="18">
+      <Unit0>
+        <Filename Value="vimetr.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="1"/>
+        <CursorPos X="18" Y="10"/>
+        <UsageCount Value="32"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="mainunit.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="MainForm"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="MainUnit"/>
+        <TopLine Value="60"/>
+        <CursorPos X="6" Y="102"/>
+        <UsageCount Value="32"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="hard_visko.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Hard_Visko"/>
+        <EditorIndex Value="3"/>
+        <TopLine Value="34"/>
+        <CursorPos X="6" Y="50"/>
+        <UsageCount Value="32"/>
+        <Loaded Value="True"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="soft_visko.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Soft_Visko"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="20"/>
+        <CursorPos X="28" Y="42"/>
+        <UsageCount Value="25"/>
+        <Loaded Value="True"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="mytypes.pas"/>
+        <UnitName Value="MyTypes"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos Y="11"/>
+        <UsageCount Value="22"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="/usr/lib/fpc/src/rtl/objpas/classes/classesh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="731"/>
+        <CursorPos X="14" Y="661"/>
+        <UsageCount Value="10"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="backup/unit1.pas"/>
+        <UnitName Value="Unit1"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="82"/>
+        <CursorPos Y="89"/>
+        <UsageCount Value="8"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="backup/mytypes.pas"/>
+        <UnitName Value="MyTypes"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos Y="8"/>
+        <UsageCount Value="8"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="/usr/lib/fpc/src/packages/rtl-extra/src/unix/serial.pp"/>
+        <UnitName Value="Serial"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="347"/>
+        <CursorPos X="10" Y="111"/>
+        <UsageCount Value="13"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="/usr/lib/lazarus/lcl/stdctrls.pp"/>
+        <UnitName Value="StdCtrls"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="817"/>
+        <CursorPos X="14" Y="824"/>
+        <UsageCount Value="8"/>
+      </Unit9>
+      <Unit10>
+        <Filename Value="/usr/lib/fpc/src/rtl/inc/typshrdh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="55"/>
+        <CursorPos X="3" Y="62"/>
+        <UsageCount Value="8"/>
+      </Unit10>
+      <Unit11>
+        <Filename Value="/usr/lib/fpc/src/rtl/inc/objpash.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="279"/>
+        <CursorPos X="26" Y="211"/>
+        <UsageCount Value="8"/>
+      </Unit11>
+      <Unit12>
+        <Filename Value="/usr/lib/fpc/src/rtl/unix/bunxovlh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="46"/>
+        <CursorPos X="10" Y="74"/>
+        <UsageCount Value="11"/>
+      </Unit12>
+      <Unit13>
+        <Filename Value="unit1.pas"/>
+        <UnitName Value="Unit1"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="5"/>
+        <CursorPos X="31" Y="41"/>
+        <UsageCount Value="11"/>
+      </Unit13>
+      <Unit14>
+        <Filename Value="/usr/lib/fpc/src/rtl/linux/ostypes.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="187"/>
+        <CursorPos X="2" Y="203"/>
+        <UsageCount Value="10"/>
+      </Unit14>
+      <Unit15>
+        <Filename Value="/usr/lib/fpc/src/rtl/unix/aliasctp.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="28"/>
+        <CursorPos X="3" Y="49"/>
+        <UsageCount Value="10"/>
+      </Unit15>
+      <Unit16>
+        <Filename Value="../../../../Downloads/8schools.R"/>
+        <EditorIndex Value="4"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="None"/>
+      </Unit16>
+      <Unit17>
+        <Filename Value="../../../../IJ/ImageJ/jre/README"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="5"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="None"/>
+      </Unit17>
+    </Units>
+    <JumpHistory Count="30" HistoryIndex="29">
+      <Position1>
+        <Filename Value="soft_visko.pas"/>
+        <Caret Line="15" Column="28"/>
+      </Position1>
+      <Position2>
+        <Filename Value="soft_visko.pas"/>
+        <Caret Line="31" Column="41" TopLine="4"/>
+      </Position2>
+      <Position3>
+        <Filename Value="soft_visko.pas"/>
+        <Caret Line="16" Column="66"/>
+      </Position3>
+      <Position4>
+        <Filename Value="soft_visko.pas"/>
+        <Caret Line="15" Column="46" TopLine="5"/>
+      </Position4>
+      <Position5>
+        <Filename Value="soft_visko.pas"/>
+        <Caret Line="24" Column="27" TopLine="6"/>
+      </Position5>
+      <Position6>
+        <Filename Value="soft_visko.pas"/>
+        <Caret Line="19" Column="35"/>
+      </Position6>
+      <Position7>
+        <Filename Value="soft_visko.pas"/>
+        <Caret Line="17" Column="47"/>
+      </Position7>
+      <Position8>
+        <Filename Value="soft_visko.pas"/>
+        <Caret Line="16" Column="46"/>
+      </Position8>
+      <Position9>
+        <Filename Value="soft_visko.pas"/>
+        <Caret Line="17" Column="39"/>
+      </Position9>
+      <Position10>
+        <Filename Value="soft_visko.pas"/>
+        <Caret Line="16" Column="35" TopLine="4"/>
+      </Position10>
+      <Position11>
+        <Filename Value="soft_visko.pas"/>
+        <Caret Line="17" Column="32"/>
+      </Position11>
+      <Position12>
+        <Filename Value="soft_visko.pas"/>
+        <Caret Line="33" Column="36" TopLine="7"/>
+      </Position12>
+      <Position13>
+        <Filename Value="soft_visko.pas"/>
+        <Caret Line="46" Column="50" TopLine="20"/>
+      </Position13>
+      <Position14>
+        <Filename Value="mainunit.pas"/>
+        <Caret Line="105" Column="46" TopLine="66"/>
+      </Position14>
+      <Position15>
+        <Filename Value="soft_visko.pas"/>
+        <Caret Line="42" Column="28" TopLine="20"/>
+      </Position15>
+      <Position16>
+        <Filename Value="soft_visko.pas"/>
+        <Caret Line="14" Column="36"/>
+      </Position16>
+      <Position17>
+        <Filename Value="soft_visko.pas"/>
+        <Caret Line="42" Column="17" TopLine="20"/>
+      </Position17>
+      <Position18>
+        <Filename Value="mainunit.pas"/>
+        <Caret Line="110" Column="46" TopLine="103"/>
+      </Position18>
+      <Position19>
+        <Filename Value="hard_visko.pas"/>
+        <Caret Line="35" Column="40" TopLine="22"/>
+      </Position19>
+      <Position20>
+        <Filename Value="hard_visko.pas"/>
+        <Caret Line="36" Column="3" TopLine="18"/>
+      </Position20>
+      <Position21>
+        <Filename Value="hard_visko.pas"/>
+        <Caret Line="115" Column="22" TopLine="95"/>
+      </Position21>
+      <Position22>
+        <Filename Value="hard_visko.pas"/>
+        <Caret Line="38" Column="33" TopLine="23"/>
+      </Position22>
+      <Position23>
+        <Filename Value="hard_visko.pas"/>
+        <Caret Line="65" Column="6" TopLine="50"/>
+      </Position23>
+      <Position24>
+        <Filename Value="hard_visko.pas"/>
+        <Caret Line="38" Column="28" TopLine="26"/>
+      </Position24>
+      <Position25>
+        <Filename Value="mainunit.pas"/>
+        <Caret Line="121" Column="30" TopLine="86"/>
+      </Position25>
+      <Position26>
+        <Filename Value="hard_visko.pas"/>
+        <Caret Line="100" Column="8" TopLine="86"/>
+      </Position26>
+      <Position27>
+        <Filename Value="hard_visko.pas"/>
+        <Caret Line="101" Column="16" TopLine="96"/>
+      </Position27>
+      <Position28>
+        <Filename Value="hard_visko.pas"/>
+        <Caret Line="100" Column="23" TopLine="80"/>
+      </Position28>
+      <Position29>
+        <Filename Value="hard_visko.pas"/>
+        <Caret Line="102" Column="65" TopLine="91"/>
+      </Position29>
+      <Position30>
+        <Filename Value="mainunit.pas"/>
+        <Caret Line="105" Column="10" TopLine="89"/>
+      </Position30>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+  <Debugging>
+    <BreakPoints Count="1">
+      <Item1>
+        <Kind Value="bpkData"/>
+        <WatchData Value="     Serial.SerWrite(PortHandle,PPos,1);
+"/>
+        <WatchScope Value="wpsGlobal"/>
+        <WatchKind Value="wpkWrite"/>
+        <InitialEnabled Value="False"/>
+      </Item1>
+    </BreakPoints>
+  </Debugging>
+</CONFIG>

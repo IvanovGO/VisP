@@ -1,0 +1,116 @@
+object MainForm: TMainForm
+  Left = 354
+  Height = 480
+  Top = 70
+  Width = 640
+  Caption = 'MainForm'
+  ClientHeight = 480
+  ClientWidth = 640
+  OnClose = FormClose
+  OnCreate = FormCreate
+  LCLVersion = '2.0.6.0'
+  Visible = True
+  object MainPanel: TPanel
+    Left = 16
+    Height = 432
+    Top = 43
+    Width = 610
+    ClientHeight = 432
+    ClientWidth = 610
+    Enabled = False
+    TabOrder = 0
+    OnClick = MainPanelClick
+    object OutputMemo: TMemo
+      Left = 0
+      Height = 398
+      Top = 32
+      Width = 608
+      ScrollBars = ssAutoVertical
+      TabOrder = 0
+    end
+    object WriteButton: TButton
+      Left = 280
+      Height = 25
+      Top = 3
+      Width = 75
+      Caption = 'WriteButton'
+      OnClick = WriteButtonClick
+      TabOrder = 1
+    end
+    object WriteEdit: TEdit
+      Left = 224
+      Height = 22
+      Top = 3
+      Width = 40
+      TabOrder = 2
+      Text = '255'
+    end
+    object PowerTrackBar: TTrackBar
+      Left = 8
+      Height = 25
+      Top = 0
+      Width = 204
+      Max = 254
+      OnChange = PowerTrackBarChange
+      PageSize = 10
+      Position = 150
+      TickStyle = tsNone
+      TabOrder = 3
+    end
+    object ReadButton: TButton
+      Left = 368
+      Height = 25
+      Top = 3
+      Width = 75
+      Caption = 'Read'
+      OnClick = ReadButtonClick
+      TabOrder = 4
+    end
+    object Avto: TCheckBox
+      Left = 464
+      Height = 19
+      Top = 8
+      Width = 49
+      Caption = 'Avto'
+      OnChange = AvtoChange
+      TabOrder = 5
+    end
+  end
+  object ConnectButton: TButton
+    Left = 96
+    Height = 25
+    Top = 8
+    Width = 75
+    Caption = 'Connect'
+    OnClick = ConnectButtonClick
+    TabOrder = 1
+  end
+  object PortEdit: TEdit
+    Left = 8
+    Height = 22
+    Top = 8
+    Width = 80
+    Font.Height = -13
+    Font.Name = 'Sans Serif'
+    ParentFont = False
+    TabOrder = 2
+    Text = '/dev/ttyUSB0'
+  end
+  object DisconnectButton: TButton
+    Left = 184
+    Height = 25
+    Top = 8
+    Width = 75
+    Caption = 'Disconnect'
+    Enabled = False
+    OnClick = DisconnectButtonClick
+    TabOrder = 3
+  end
+  object Timer1: TTimer
+    Enabled = False
+    Interval = 0
+    OnTimer = Timer1Timer
+    left = 544
+    top = 8
+  end
+end
